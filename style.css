@@ -1,0 +1,69 @@
+.container {
+	display: flex;
+	justify-content: space-between;
+	padding: 15px 0px;
+}
+
+.dreamspaceLogo {
+	display: flex;
+	justify-content: left;
+	align-content: left;
+	padding: 2px 20px;
+}
+
+.signUpBtncss {
+	display: flex;
+	justify-content: right;
+	align-content: right;
+	padding: 2px 20px;
+}
+
+a {
+	text-decoration: inherit;
+	color: inherit;
+}
+
+
+.signInBtncss {
+	display: flex;
+	justify-content: center;
+}
+
+.signUp {
+	display: flex;
+	justify-content: center;
+}
+
+.usernameBox {
+	display: flex;
+	justify-content: center;
+	
+}
+
+.passwordBox {
+	display: flex;
+	justify-content: center;
+	
+}
+
+.newusernameBox {
+	display: flex;
+	justify-content: center;
+	
+}
+
+.newpasswordBox {
+	display: flex;
+	justify-content: center;
+	
+}
+
+.createAccount {
+	display: flex;
+	justify-content: center;
+}
+
+.welcomeBack {
+	display: flex;
+	justify-content: center;
+}
